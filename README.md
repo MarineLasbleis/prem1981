@@ -11,4 +11,4 @@ The notebook provides a few methods to get pretty figures with PREM density prof
 
 Le notebook donne quelques méthodes pour avoir une jolie figure avec le profil de densité de PREM. 
 
-![PREM](PREM_circle_en.png "PREM profile")
+![PREM](PREM_circle.png "PREM profile")
