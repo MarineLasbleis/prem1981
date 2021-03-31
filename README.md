@@ -13,6 +13,8 @@ Le notebook donne quelques méthodes pour avoir une jolie figure avec le profil 
 
 (Figures are in French)
 
-![PREM](PREM.png "PREM profile")
+![PREM](circle.png "PREM in a circle")
+
+![PREM](coupe.png "PREM")
 
 ![PREM](PREM_manteau.png "PREM profile")
